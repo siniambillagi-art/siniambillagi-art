@@ -54,9 +54,4 @@
 ### 📈 Contribution Graph
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=siniambillagi-art&theme=tokyo-night&hide_border=true&area=true)
-
-### 🐍 Contribution Snake
-
-![Snake](https://raw.githubusercontent.com/siniambillagi-art/siniambillagi-art/output/github-contribution-grid-snake-dark.svg)
-
 </div>
