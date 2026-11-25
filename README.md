@@ -1,6 +1,6 @@
 <div align="center">
 
-[Banner](assets/banner.gif)
+[Banner](assets/benner.gif)
 
 ### Hi there 👋, I'm BangManzzz
 
